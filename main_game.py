@@ -57,7 +57,7 @@ while replay:
         print(guess_list)
         
         if guess_count == word_len + 3:
-            print("\nTOO many guesses!!!")
+            print("\nToo many guesses!!!")
             print("Word was:" + game_word)
             lost = True
             break
