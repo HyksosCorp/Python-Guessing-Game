@@ -7,13 +7,9 @@ replay = True
 lost = False
 score = 0
 
-# file_name = 
-
 while replay:
 
     guess_count = 0
-
-    
     
     print("\nPython Guessing Game.\n\nContinue by pressing any key...")
     readchar()
